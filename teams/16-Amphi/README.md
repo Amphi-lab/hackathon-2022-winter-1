@@ -25,4 +25,5 @@
 
 
 Demo
-[![image alt text](https://youtu.be/wE-10IMH4Qk)]
+  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wE-10IMH4Qk/0.jpg)](https://www.youtube.com/watch?v=wE-10IMH4Qk)
