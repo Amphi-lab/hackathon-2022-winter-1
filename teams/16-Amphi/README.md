@@ -1,4 +1,5 @@
-readme
+![image](https://github.com/Amphi-lab/hackathon-2022-winter-1/blob/main/teams/16-Amphi/Docs/frog-logo_light.png)
+
 项目名称：amphi
 项目立项日期 (哪年哪月)：2022.10
 
